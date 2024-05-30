@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/gameStore.Api.props" />
+</Project>
